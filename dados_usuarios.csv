@@ -1,0 +1,8 @@
+Nome,CPF,Email,Placa,Tipo,CPF_CNPJ,Endereco,Sexo,Documento,Origem,Telefone
+rafael,123465789.0,rafael61739386@edu.df.senac.br,jke9999,Diretoria,Não informado,Não informado,Não informado,,CNAK Vision,
+User01,123456789.0,user01@gmail.com,jke9999,Visitante,Não informado,Não informado,Não informado,,CNAK Vision,
+user04,12345678.0,user04@gmail.com,jke9999,Visitante,Não informado,Não informado,Não informado,,CNAK Vision,
+User05,1234567.0,user05@gmail.com,,Visitante,Não informado,Não informado,Não informado,,CNAK Vision,
+jaqueline,,lojista@cnak.com,,Visitante,,"Taguatinga Norte, Brasília DF",Feminino,123456789.0,CNAK Vision,
+JAQUELINE,,lojista@cnak.com,,Visitante,,TAGUATINGA BRASILIA DF,Masculino,1234567899.0,Lojista,61999999999.0
+lojista01,,lojista01@gmail.com,,Lojista,,Sede CNAK,,123456789.0,CNAK Vision,
